@@ -1,0 +1,11 @@
+.vertical-box {
+    margin: 20px;
+    width: 140px;
+    height: 50vh;
+    border: 5px solid rgba(231, 229, 229, 0.3);
+    border-radius: 100px;
+    box-shadow:
+        2px 10px 10px rgba(0, 0, 0, 0.3),
+        inset 2px 0px 10px rgba(0, 0, 0, 0.5);
+
+}
